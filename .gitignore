@@ -1,0 +1,12 @@
+# Ignorer tous les fichiers .log
+*.mp3
+*.txt
+*.gz
+# Ignorer le répertoire node_modules
+node_modules/
+
+# Ignorer les fichiers spécifiques
+cv-corpus-15.0-delta-2023-09-08-fr/
+
+# Ignorer tous les fichiers .env
+*.env
